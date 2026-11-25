@@ -1,0 +1,9 @@
+streamlit
+pypdf
+pandas
+scikit-learn
+requests
+
+cd resume_analyzer\resume_analyzer
+.\venv\Scripts\activate
+streamlit run app.py
